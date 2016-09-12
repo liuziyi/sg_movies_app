@@ -1,0 +1,60 @@
+/* --------------------------
+General Styles 
+----------------------------- */
+#movie-single-main-container{
+	padding-top: 10px;
+}
+
+/* --------------------------
+Main Poster
+----------------------------- */
+
+#movie-single-main-poster{
+	height: 500px;
+	width: 100%;
+}
+
+/* --------------------------
+Movie Details
+----------------------------- */
+
+#movie-single-container{
+	margin-bottom: 50px;
+}
+
+/* ---- Details ---------- */
+#movie-single-poster{
+	padding-left: 100px;
+}
+
+#movie-single-details-container{
+	margin-top: 50px;
+}
+
+#movie-single-details-heading{
+	border: 5px solid black;
+	width: 50%;
+	margin: auto;
+}
+
+#movie-single-details{
+	width: 50%;
+	margin: auto;
+	padding-top: 100px;
+	padding-left: 40px;
+}
+
+#movie-single-details p{
+	font-size: 20px;
+}
+
+/* ---- Synopsis ---------- */
+#movie-single-synopsis-container{
+	margin-top: 50px;
+}
+
+#movie-single-synopsis-heading{
+	border: 5px solid black;
+	width: 50%;
+	margin: auto;
+}
